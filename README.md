@@ -12,7 +12,7 @@ The following is a breakdown of the visualizations that were included in the pre
  
 ### Introducing Citi Bike to Des Moines
 <br>
-<img align="right" src="https://github.com/hollyouellette/bikesharing/blob/main/analysis/slide_1.png" width=750>
+<img align="right" src="https://github.com/hollyouellette/bikesharing/blob/main/analysis/slide_1.png" width=700>
 
 <br><br>
 
@@ -25,7 +25,7 @@ The intention of starting the analysis with this information is to capture the i
 <br><br><br>
 --------------------------------------------------------
 
-<img align="right" src="https://github.com/hollyouellette/bikesharing/blob/main/analysis/slide_2.png" width=750>
+<img align="right" src="https://github.com/hollyouellette/bikesharing/blob/main/analysis/slide_2.png" width=700>
 
 <br><br>
 
@@ -38,7 +38,7 @@ This visualisation is intended to show the investors that this service is genera
 <br><br><br><br>
 --------------------------------------------------------
 
-<img align="right" src="https://github.com/hollyouellette/bikesharing/blob/main/analysis/slide_3.png" width=750>
+<img align="right" src="https://github.com/hollyouellette/bikesharing/blob/main/analysis/slide_3.png" width=700>
 
 <br><br>
 
@@ -51,7 +51,7 @@ The purpose of this dashboard is to, in one page, tell a deeper story into Citi 
 <br><br><br><br>
 --------------------------------------------------------
 
-<img align="right" src="https://github.com/hollyouellette/bikesharing/blob/main/analysis/slide_4.png" width=750>
+<img align="right" src="https://github.com/hollyouellette/bikesharing/blob/main/analysis/slide_4.png" width=700>
 
 <br><br>
 
@@ -65,7 +65,7 @@ In addition, with the exception of some outliers, this visualization let’s the
 --------------------------------------------------------
 
 
-<img align="right" src="https://github.com/hollyouellette/bikesharing/blob/main/analysis/slide_5.png" width=750>
+<img align="right" src="https://github.com/hollyouellette/bikesharing/blob/main/analysis/slide_5.png" width=700>
 
 <br><br><br>
 
