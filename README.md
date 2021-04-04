@@ -42,7 +42,7 @@ This visualisation is intended to show the investors that this service is genera
 <br><br>
 
 **Page 3**
-<br><br>
+<br>
 The third page of the presentation contains a dashboard that contains three visualizations. 
 <br><br>
 The purpose of this dashboard is to, in one page, tell a deeper story into Citi Bike’s ridership in August 2019. This dashboard showcases the variations by gender in the service usage as well as how the variations differ when filtered by customer type. 
