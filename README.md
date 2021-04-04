@@ -52,7 +52,6 @@ The purpose of this dashboard is to, in one page, tell a deeper story into Citi 
 
 <img align="right" src="https://github.com/hollyouellette/bikesharing/blob/main/analysis/slide_4.png" width=650>
 
-<br><br>
 
 **Page 4**
 <br><br>
@@ -66,7 +65,7 @@ In addition, with the exception of some outliers, this visualization let’s the
 
 <img align="right" src="https://github.com/hollyouellette/bikesharing/blob/main/analysis/slide_5.png" width=650>
 
-<br><br>
+<br>
 
 **Page 5**
 <br><br>
@@ -74,7 +73,7 @@ The final page of this presentation is a deep-dive into the trip duration for ea
 <br><br>
 The purpose of this visualization is to showcase that while there are many bikes in circulation, there is only a small portion that would soon require maintenance due to the total amount of time each bike has been used. 
 
-<br><br><br><br><br><br>
+<br><br><br>
 
 ## Summary
 
