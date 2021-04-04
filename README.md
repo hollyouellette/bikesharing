@@ -65,15 +65,15 @@ In addition, with the exception of some outliers, this visualization let’s the
 --------------------------------------------------------
 
 
-<img align="right" src="https://github.com/hollyouellette/bikesharing/blob/main/analysis/slide_4.png" width=750>
+<img align="right" src="https://github.com/hollyouellette/bikesharing/blob/main/analysis/slide_5.png" width=750>
 
-<br><br>
+<br><br><br>
 
-**Page 4**
+**Page 5**
 <br><br>
-The fourth page is included in the presentation to provide a visualization to the investor of the number of bikes that were used in New York City in August 2019. 
+The final page of this presentation is a deep-dive into the trip duration for each bike in the fleet. 
 <br><br>
-In addition, with the exception of some outliers, this visualization let’s the investor know that with more bikes included in the fleet, each unique bike is used less. In addition to enhanced accessibility to users, a large bike fleet results in less ware and tare on the bikes, thereby requiring less of a maintenance cost. 
+The purpose of this visualization is to showcase that while there are many bikes in circulation, there is only a small portion that would soon require maintenance due to the total about of time each bike has been used. 
 
 <br><br><br><br>
 
