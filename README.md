@@ -14,7 +14,7 @@ The following is a breakdown of the visualizations that were included in the pre
 <br>
 <img align="right" src="https://github.com/hollyouellette/bikesharing/blob/main/analysis/slide_1.png" width=700>
 
-<br>
+
 
 **Page 1**
 <br><br>
@@ -27,7 +27,7 @@ The intention of starting the analysis with this information is to capture the i
 
 <img align="right" src="https://github.com/hollyouellette/bikesharing/blob/main/analysis/slide_2.png" width=700>
 
-<br>
+
 
 **Page 2**
 <br><br>
@@ -40,7 +40,7 @@ This visualisation is intended to show the investors that this service is genera
 
 <img align="right" src="https://github.com/hollyouellette/bikesharing/blob/main/analysis/slide_3.png" width=700>
 
-<br>
+
 
 **Page 3**
 <br><br>
@@ -53,7 +53,7 @@ The purpose of this dashboard is to, in one page, tell a deeper story into Citi 
 
 <img align="right" src="https://github.com/hollyouellette/bikesharing/blob/main/analysis/slide_4.png" width=700>
 
-<br>
+
 
 **Page 4**
 <br><br>
@@ -67,7 +67,7 @@ In addition, with the exception of some outliers, this visualization let’s the
 
 <img align="right" src="https://github.com/hollyouellette/bikesharing/blob/main/analysis/slide_5.png" width=700>
 
-<br><br>
+
 
 **Page 5**
 <br><br>
