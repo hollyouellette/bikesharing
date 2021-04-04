@@ -104,7 +104,7 @@ In summary, this investigation yielded the following results:
 <br><br>
 
 After completing this analysis, I would recommend the following two visualizations for further investigation:
-<br><br>
+<br>
 
    **Trips by Weekday Hour filtered by Customer Type**
 
