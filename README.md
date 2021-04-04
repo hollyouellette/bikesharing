@@ -8,4 +8,4 @@ The dataset used for this analysis was trip data from New York in August 2019. T
 
 ## Results
 
-The following is a breakdown of the visualizations that were included in the presentation to investors. To view the dashboard for this project, ![CLICK HERE](https://public.tableau.com/profile/holly.ouellette#!/vizhome/Citi_Bike_Des_Moines/NYCStory?publish=yes).
+The following is a breakdown of the visualizations that were included in the presentation to investors. To view the dashboard for this project, <a href="https://public.tableau.com/profile/holly.ouellette#!/vizhome/Citi_Bike_Des_Moines/NYCStory?publish=yes">CLICK HERE</a>.
