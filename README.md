@@ -39,7 +39,7 @@ This visualisation is intended to show the investors that this service is genera
 
 <img align="right" src="https://github.com/hollyouellette/bikesharing/blob/main/analysis/slide_3.png" width=650>
 
-<br><br>
+<br>
 
 **Page 3**
 <br>
