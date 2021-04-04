@@ -25,5 +25,18 @@ The intention of starting the analysis with this information is to capture the i
 <br><br><br>
 --------------------------------------------------------
 
+<br>
+<img align="right" src="https://github.com/hollyouellette/bikesharing/blob/main/analysis/slide_1.png" width=750>
+
+<br><br>
+
+**Page 1**
+<br><br>
+The first page of this presentation contains a dashboard providing a high-level analysis of the customers who use Citi Bike in Des Moines. 
+<br><br>
+The intention of starting the analysis with this information is to capture the investor’s attention through knowing who is using the service, when they are using it, and the total number of trips that took place in the month of August. 
+
+<br><br><br>
+--------------------------------------------------------
 
 Testing
