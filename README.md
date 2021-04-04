@@ -25,15 +25,15 @@ The intention of starting the analysis with this information is to capture the i
 <br><br><br>
 --------------------------------------------------------
 
-<img align="right" src="https://github.com/hollyouellette/bikesharing/blob/main/analysis/slide_1.png" width=750>
+<img align="right" src="https://github.com/hollyouellette/bikesharing/blob/main/analysis/slide_2.png" width=750>
 
 <br><br>
 
 **Page 2**
 <br><br>
-The first page of this presentation contains a dashboard providing a high-level analysis of the customers who use Citi Bike in Des Moines. 
+The second page of this presentation is a single visualization to showcase the trip duration against the number of bikes in the Citi Bike fleet.
 <br><br>
-The intention of starting the analysis with this information is to capture the investor’s attention through knowing who is using the service, when they are using it, and the total number of trips that took place in the month of August. 
+This visualisation is intended to show the investors that this service is generally used for short-duration trips. Additionally, this graph is an prelude to dig in deeper to this visualization and better understand who exactly is using the service to make these trips.  
 
 <br><br><br>
 --------------------------------------------------------
