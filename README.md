@@ -61,7 +61,7 @@ The fourth page is included in the presentation to provide a visualization to th
 <br><br>
 In addition, with the exception of some outliers, this visualization let’s the investor know that with more bikes included in the fleet, each unique bike is used less. In addition to enhanced accessibility to users, a large bike fleet results in less ware and tare on the bikes, thereby requiring less of a maintenance cost. 
 
-<br><br><br><br>
+<br><br><br>
 --------------------------------------------------------
 
 
@@ -75,6 +75,8 @@ The final page of this presentation is a deep-dive into the trip duration for ea
 <br><br>
 The purpose of this visualization is to showcase that while there are many bikes in circulation, there is only a small portion that would soon require maintenance due to the total about of time each bike has been used. 
 
-<br><br><br><br>
+<br><br><br>
 
 ## Summary
+
+In summary...
