@@ -16,7 +16,6 @@ The following is a breakdown of the visualizations that were included in the pre
 
 <br>
 Page 1
-
 <br><br>
 The first page of this presentation contains a dashboard providing a high-level analysis of the customers who use Citi Bike in Des Moines. 
 
