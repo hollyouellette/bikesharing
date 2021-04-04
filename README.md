@@ -79,4 +79,26 @@ The purpose of this visualization is to showcase that while there are many bikes
 
 ## Summary
 
-In summary...
+In summary, this investigation yielded the following results:
+
+1.	Knowing the clientele of Citi Bike based one:
+
+      **Customer Type**
+
+      Approximately 80% of the Citi Bike clientele are subscribers who use the service on an ongoing basis.
+
+      **Customer Age**
+
+      A significant portion of Citi Bike’s ridership were born between the years 1968-1997 (24 to 53 years in age).
+
+     **Customer Gender**
+
+      Based on this analysis, we see that men tend to use the Citi Bike service more than women and also use the bikes for longer trip durations. 
+
+2.	An understanding of the fleet size and the impact this has on ongoing bike maintenance. Based on this analysis, we learned that an upfront investment in having a high number of bikes in rotation will result in fewer bikes requiring services due to high usage.
+
+3.	A knowledge of the peak times that the Citi Bike service is used:
+
+      **Weekdays**: 6:00am-9:00am & 5:00pm-7:00pm
+      **Weekends**: 10:00am – 7:00pm
+
