@@ -62,7 +62,7 @@ In addition, with the exception of some outliers, this visualization let’s the
 <br><br>
 --------------------------------------------------------
 
-
+<br>
 <img align="right" src="https://github.com/hollyouellette/bikesharing/blob/main/analysis/slide_5.png" width=650>
 
 <br>
