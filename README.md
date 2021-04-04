@@ -80,8 +80,8 @@ The purpose of this visualization is to showcase that while there are many bikes
 ## Summary
 
 In summary, this investigation yielded the following results:
-
-1.	Knowing the clientele of Citi Bike based one:
+<br><br>
+1.	An understanding of the clientele of Citi Bike based on the following:
 
       **Customer Type**
 
@@ -94,9 +94,9 @@ In summary, this investigation yielded the following results:
      **Customer Gender**
 
       Based on this analysis, we see that men tend to use the Citi Bike service more than women and also use the bikes for longer trip durations. 
-
+<br><br>
 2.	An understanding of the fleet size and the impact this has on ongoing bike maintenance. Based on this analysis, we learned that an upfront investment in having a high number of bikes in rotation will result in fewer bikes requiring services due to high usage.
-
+<br><br>
 3.	A knowledge of the peak times that the Citi Bike service is used:
 
       **Weekdays**: 6:00am-9:00am & 5:00pm-7:00pm
