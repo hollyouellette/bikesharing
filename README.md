@@ -27,7 +27,7 @@ The intention of starting the analysis with this information is to capture the i
 
 <img align="right" src="https://github.com/hollyouellette/bikesharing/blob/main/analysis/slide_2.png" width=650>
 
-<br><br>
+<br>
 
 **Page 2**
 <br><br>
