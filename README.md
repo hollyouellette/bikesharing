@@ -49,9 +49,8 @@ The purpose of this dashboard is to, in one page, tell a deeper story into Citi 
 
 <br><br><br>
 --------------------------------------------------------
-<br>
-<img align="right" src="https://github.com/hollyouellette/bikesharing/blob/main/analysis/slide_4.png" width=625>
 
+<img align="right" src="https://github.com/hollyouellette/bikesharing/blob/main/analysis/slide_4.png" width=625>
 
 **Page 4**
 <br><br>
