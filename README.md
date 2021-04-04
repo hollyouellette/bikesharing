@@ -73,7 +73,7 @@ In addition, with the exception of some outliers, this visualization let’s the
 <br><br>
 The final page of this presentation is a deep-dive into the trip duration for each bike in the fleet. 
 <br><br>
-The purpose of this visualization is to showcase that while there are many bikes in circulation, there is only a small portion that would soon require maintenance due to the total about of time each bike has been used. 
+The purpose of this visualization is to showcase that while there are many bikes in circulation, there is only a small portion that would soon require maintenance due to the total amount of time each bike has been used. 
 
 <br><br><br><br><br><br>
 
@@ -105,8 +105,8 @@ In summary, this investigation yielded the following results:
 
 After completing this analysis, I would recommend the following two visualizations for further investigation:
 
-<br><br>
-   1. *Trips by Weekday Hour filtered by Customer Type*. This visualization will enable use to better understand which peak trip hours can be attributed to Customers vs. Subscribers and if there is a relationship between the customer type and when the bikes are being used. 
+<br>
+   1. *Trips by Weekday Hour filtered by Customer Type*. This visualization will enable us to better understand which peak trip hours can be attributed to Customers vs. Subscribers and if there is a relationship between the customer type and when the bikes are being used. 
 
    2. *Customers by Age and Type*. This visualization will help us better understand if there are differences in how particular age demographics engage with this service.
 
