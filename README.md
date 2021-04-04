@@ -75,7 +75,7 @@ The final page of this presentation is a deep-dive into the trip duration for ea
 <br><br>
 The purpose of this visualization is to showcase that while there are many bikes in circulation, there is only a small portion that would soon require maintenance due to the total about of time each bike has been used. 
 
-<br><br><br>
+<br><br><br><br><br>
 
 ## Summary
 
