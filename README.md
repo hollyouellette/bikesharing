@@ -50,3 +50,16 @@ The purpose of this dashboard is to, in one page, tell a deeper story into Citi 
 
 <br><br><br><br>
 --------------------------------------------------------
+
+<img align="right" src="https://github.com/hollyouellette/bikesharing/blob/main/analysis/slide_4.png" width=750>
+
+<br><br>
+
+**Page 4**
+<br>
+The fourth page is included in the presentation to provide a visualization to the investor of the number of bikes that were used in New York City in August 2019. 
+<br><br>
+In addition, with the exception of some outliers, this visualization let’s the investor know that with more bikes included in the fleet, each unique bike is used less. In addition to enhanced accessibility to users, a large bike fleet results in less ware and tare on the bikes, thereby requiring less of a maintenance cost. 
+
+<br><br><br><br>
+--------------------------------------------------------
