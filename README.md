@@ -13,7 +13,8 @@ The following is a breakdown of the visualizations that were included in the pre
 ### Introducing Citi Bike to Des Moines
 <br>
 <img align="right" src="https://github.com/hollyouellette/bikesharing/blob/main/analysis/slide_1.png" width=750>
-<br>
+
+<br><br>
 
 **Page 1**
 <br><br>
