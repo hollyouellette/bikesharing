@@ -101,4 +101,15 @@ In summary, this investigation yielded the following results:
 
       **Weekdays**: 6:00am-9:00am & 5:00pm-7:00pm
       **Weekends**: 10:00am – 7:00pm
+<br><br>
+After completing this analysis, I would recommend the following two visualizations for further investigation:
+
+   **Trips by Weekday Hour filtered by Customer Type**
+
+   This visualization will enable use to better understand which peak trip hours can be attributed to Customers vs. Subscribers and if there is a relationship between the customer type and when the bikes are being used. 
+
+   **Customers by Age and Type**
+
+   This visualization will help us better understand if there are differences in how particular age demographics engage with this service.
+
 
