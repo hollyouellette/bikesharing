@@ -10,5 +10,10 @@ The dataset used for this analysis was trip data from New York in August 2019. T
 
 The following is a breakdown of the visualizations that were included in the presentation to investors. To view the dashboard for this project, <a href="https://public.tableau.com/profile/holly.ouellette#!/vizhome/Citi_Bike_Des_Moines/NYCStory">CLICK HERE</a>.
  
-<img align="center" src="https://github.com/hollyouellette/bikesharing/blob/main/analysis/slide_1.png" width=700>
+### Introducing Citi Bike to Des Moines
 
+<img align="right" src="https://github.com/hollyouellette/bikesharing/blob/main/analysis/slide_1.png" width=700>
+
+**Page 1**
+
+The first page of 
